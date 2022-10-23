@@ -1,0 +1,1 @@
+//Function ends, destructor will be automatically called, destroy the object.
